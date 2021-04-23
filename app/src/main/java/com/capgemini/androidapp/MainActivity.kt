@@ -10,6 +10,7 @@ import android.widget.Toast
 class MainActivity : AppCompatActivity() {
 
     val TAG = "MainActivity"
+    val text="some text"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
